@@ -3,4 +3,7 @@ linea 2
 linea 3
 linea 4
 linea 5
+<<<<<<< HEAD
 commit 6
+=======
+>>>>>>> fe1087c8d6260bf2669bc6abddeb749af67b73ca
